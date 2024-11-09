@@ -1,6 +1,5 @@
 # 💫 About Me:
-🤓  I'm a software developer with a passion for technology. <br>😉 I'm always eager to learn and stay up-to-date with the latest industry trends.<br>⚡ Fun fact When I'm not at the gym or coding, I enjoy spending time with my friends and family, trying new foods, and exploring new places.
-
+🤓  I'm a software developer with a passion for technology. <br>😉 I'm always eager to learn and stay up-to-date with the latest industry trends.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frn315_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frn315) 
